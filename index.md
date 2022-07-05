@@ -1,32 +1,14 @@
-## Welcome to GitHub Pages
+# 音频开发学习
 
-You can use the [editor on GitHub](https://github.com/lizyoko9/AudioDevelopmentStudy/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### 音频概念Tips
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+* __Overall Loundness__ ：当声源远离听者时，其感知音量（perceived volume）以固定速率降低。这种现象被称为滚降（Rolloff）
+* __Interaural intensity difference__ ：当声音从听者右侧传来时，右耳感知到的音量比左耳大。
+* __Interaural time difference__ ：声源从听者右侧发出的声音到达左右耳的时间有差异，偏移时长约为1ms。
+* __Muffling__ ：人耳的形状和朝向使得来自后侧的声音比来自前侧的声音更加低沉，像被抑制住了一样。
+* __Effect of the earlobes__ ：耳廓或耳朵的褶皱会导致来自不同方向的声音的音高和时间发生细微变化。这种效应背后的数学原理被称为头部相关传递函数 (HRTF)。
 
 ### Jekyll Themes
 
